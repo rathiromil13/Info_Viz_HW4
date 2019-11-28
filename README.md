@@ -16,7 +16,7 @@ Figure 2 shows the top 20 districts which are affected the most by the budget cu
 
 ## Solution 2
 
-### Calculate and Visualize the proportion of each district’s total funding that will be lost.
+### Calculate and Visualize the proportion of enrolled students by race for each district
 
 Let's take a look at distribution of proportion of enrolled students by race for districts with budget cut as well as district without budget cut.
 
@@ -34,7 +34,7 @@ The Hawaiian and Pacific race is not completely visible so let's take a closer l
 
 ## Solution 3
 
-### Calculate and Visualize the proportion of each district’s total funding that will be lost.
+### Calculate the proportion of enrolled students by disability status (students with an IEP under IDEA) for each district.
 
 ![Distribution of Proportion of Enrolled Disabled Students](Figures/q3.png)
 ###### Figure 5:Distribution of Proportion of Enrolled Disabled Students
@@ -56,8 +56,9 @@ Other factors that could be taken into account are the performance of schools as
 
 ## Solution 5
 
-For this problem, I would like to comment on Visualization Lecture. 
+For this problem, I would like to comment on Visualization Lecture by Steven Braun. 
 
 While I believe every lecture was informative, I found visualization one very useful as it explained why a powerful visualization is equally important skill set to have for a Data Scientist than any other skill. 
 
-I believe often while focusing more on Data Processing and Modeling part, we miss out on creating impactful visualization by missing out on simple but subtle techniques. The lecture covered many things that makes a good visualization which we fail to notice as we are more focused on other aspects of the problem. It was refreshing to understand that everything is important in visualization, from choosing the type of visualization, the color scheme used for better interpretability, the size of plots and selection of shape and size of data points. I certainly believe it'll be very helpful in future as now we'll pay more attention to details of visualization and make our method as well as results more interpretable.
+I believe often while focusing more on Data Processing and Modeling part, we miss out on creating impactful visualization by missing out on simple but subtle techniques. The lecture covered many things that makes a good visualization which we fail to notice as we are more focused on other aspects of the problem. It was refreshing to understand that everything is important in visualization, from choosing the type of visualization, the color scheme used for better interpretability, the size of plots and selection of shape and size of data points. It was also focused on how important is to label plot well so as to make it more informative.
+It was also good to understand when to pick static plots and when to pick interactive plots.  I certainly believe it'll be very helpful in future as now I'll pay more attention to details of visualization and make our method as well as results more interpretable.
