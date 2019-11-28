@@ -27,7 +27,7 @@ Here, we can observe that for almost all the races, distribution is very similar
 
 The Hawaiian and Pacific race is not completely visible so let's take a closer look to confirm the assumption that there is very small amount of hidden bias for different communities.
 
-![Distribution of Proportion of Enrolled Students by Race](Figures/q21.png)
+![Distribution of Proportion of Enrolled Students by Race](Figures/q21.png) 
 ###### Figure 4: Distribution of Proportion of Enrolled Students for Hawaiian or Pacific Race  (Budget Cut vs Non Budget Cut)
 
 ## Solution 3
