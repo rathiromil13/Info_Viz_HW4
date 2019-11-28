@@ -4,21 +4,21 @@
 
 ### Rank and visualize Federal Funding by States
 
-![Proportion of Total Funding Lost](figures/sol1.png)
+![Proportion of Total Funding Lost](Figures/sol1.png)
 ###### Figure 1: Proportion of Total Funding Lost
 
-![States most affected by funding cut](figures/sol12.png)
+![States most affected by funding cut](Figures/sol12.png)
 ###### Figure 2: 20 Districts affected most by budget cut 
 
 
 ## Solution 2
 
-![Federal Funding by States](figures/q2.png)
+![Federal Funding by States](Figures/q2.png)
 ###### Figure 4: 25 Districts affected most by budget cut
 
 ## Solution 3
 
-![Federal Funding by States](figures/q3.png)
+![Federal Funding by States](Figures/q3.png)
 ###### Figure 5: 25 Districts affected most by budget cut
 
 ## Solution 4
