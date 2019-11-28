@@ -2,24 +2,44 @@
 
 ## Solution 1
 
-### Rank and visualize Federal Funding by States
+### Calculate and Visualize the proportion of each district’s total funding that will be lost.
+
+Figure 1 below shows the proportion of each district's total funding that is lost.
 
 ![Proportion of Total Funding Lost](Figures/sol1.png)
 ###### Figure 1: Proportion of Total Funding Lost
 
+Figure 2 shows the top 20 districts which are affected the most by the budget cuts.
+
 ![States most affected by funding cut](Figures/sol12.png)
 ###### Figure 2: 20 Districts affected most by budget cut 
 
-
 ## Solution 2
 
-![Federal Funding by States](Figures/q2.png)
-###### Figure 4: 25 Districts affected most by budget cut
+### Calculate and Visualize the proportion of each district’s total funding that will be lost.
+
+Let's take a look at distribution of proportion of enrolled students by race for districts with budget cut as well as district without budget cut.
+
+![Distribution of Proportion of Enrolled Students by Race](Figures/q2.png)
+###### Figure 3: Distribution of Proportion of Enrolled Students by Race (Budget Cut vs Non Budget Cut)
+
+Here, we can observe that for almost all the races, distribution is very similar. There is not much difference which can be observed from the quartile values in the violin plot above. The wider distribution of districts where budget cut is not performed shows that the less students were affected by the funding cut in case of all the communities. The upper adjacent values and lower adjacent values are almost similar. There is a minor shift for 'Blacks' and 'Hispanic' races in lower adjacent values from which we can conclude that there might be hidden bias for different communities but it's very less. Thus overall, it does a good job for majority of the people of different communities.
+
+The Hawaiian and Pacific race is not completely visible so let's take a closer look to confirm the assumption that there is very small amount of hidden bias for different communities.
+
+![Distribution of Proportion of Enrolled Students by Race](Figures/q21.png)
+###### Figure 4: Distribution of Proportion of Enrolled Students for Hawaiian or Pacific Race  (Budget Cut vs Non Budget Cut)
 
 ## Solution 3
 
-![Federal Funding by States](Figures/q3.png)
-###### Figure 5: 25 Districts affected most by budget cut
+### Calculate and Visualize the proportion of each district’s total funding that will be lost.
+
+![Distribution of Proportion of Enrolled Disabled Students](Figures/q3.png)
+###### Figure 5:Distribution of Proportion of Enrolled Disabled Students
+
+From the figure above it can be observed that quartile values are adjacent to each other. Again, the distribution for districts where budget cut is false is wider, which shows that there is more chance that funding cut is not done for districts which has higher proportion of disable students.
+Thus in case of disable students, again it shows there is not considerable hidden bias.
+
 
 ## Solution 4
 
